@@ -1,5 +1,5 @@
 #Codebook
-<b>Created fields
+##Created fields
 
 "1" "Subject" - The participant subject ID. Range from 1 to 30
 "2" "Activity" - The label of the activity for the corresponding measurements recorded.
@@ -86,7 +86,7 @@ Extracted features fields from the dataset (79 features)
 "fBodyBodyGyroMag-std()"
 "fBodyBodyGyroJerkMag-std()"
 
-<b> Activity value and labels</b>
+## Activity value and labels ##
 Discribes the level of activity thay subjects where exposed to during the test
 1 = WALKING
 2 = WALKING_UPSTAIRS
