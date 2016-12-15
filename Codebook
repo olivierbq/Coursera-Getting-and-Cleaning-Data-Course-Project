@@ -1,10 +1,10 @@
-#Codebook
-##Created fields
+# Codebook
+## Created fields
 
 "1" "Subject" - The participant subject ID. Range from 1 to 30
 "2" "Activity" - The label of the activity for the corresponding measurements recorded.
 
-Extracted features fields from the dataset (79 features)
+Extracted filtered features  from the dataset (79 features)
 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
