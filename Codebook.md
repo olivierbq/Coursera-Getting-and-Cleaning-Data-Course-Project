@@ -1,8 +1,8 @@
 # Codebook
 ## Created fields
 
-1 Subject = The participant subject ID. Range from 1 to 30.
-2 Activity = The label of the activity for the corresponding measurements recorded.
+1. Subject = The participant subject ID. Range from 1 to 30.
+2. Activity = The label of the activity for the corresponding measurements recorded.
 
 Extracted filtered features  from the dataset (79 features)
 
@@ -88,9 +88,9 @@ Extracted filtered features  from the dataset (79 features)
 
 ## Activity value and labels ##
 Discribes the level of activity thay subjects where exposed to during the test
-1 = WALKING
-2 = WALKING_UPSTAIRS
-3 = WALKING_DOWNSTAIRS
-4 = SITTING
-5 = STANDING
-6 = LAYING
+1. = WALKING
+2. = WALKING_UPSTAIRS
+3. = WALKING_DOWNSTAIRS
+4. = SITTING
+5. = STANDING
+6. = LAYING
