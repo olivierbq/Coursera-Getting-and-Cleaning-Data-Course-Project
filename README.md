@@ -2,10 +2,10 @@
 
 The dataset includes the following files:
 
-- 'README.txt'
-- 'Codebook'
-- 'run_analysis.R'
-- 'tidyset.txt'
+- README.txt
+- Codebook
+- run_analysis.R
+- tidyset.txt
 
 The R script, run_analysis.R, does the following:
 
