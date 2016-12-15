@@ -46,7 +46,7 @@ colnames(combinedData) <- c("subject", "activity",featuresFilter.names)
 combinedData$activity <- factor(combinedData$activity, levels = activityLabels[,1], labels = activityLabels[,2])
 combinedData$subject <- as.factor(combinedData$subject)
 
-# Appropriately labels the data set with descriptive variable names.
+# Appropriately labels the combined data set with descriptive variable names.
 combinedData.melted <- melt(combinedData, id = c("subject", "activity"))
 combinedData.mean <- dcast(combinedData.melted, subject + activity ~ variable, mean)
 
