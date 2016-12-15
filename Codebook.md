@@ -1,8 +1,8 @@
 # Codebook
 ## Created fields
 
-1 Subject" - The participant subject ID. Range from 1 to 30.
-2 Activity" - The label of the activity for the corresponding measurements recorded.
+1 Subject = The participant subject ID. Range from 1 to 30.
+2 Activity = The label of the activity for the corresponding measurements recorded.
 
 Extracted filtered features  from the dataset (79 features)
 
