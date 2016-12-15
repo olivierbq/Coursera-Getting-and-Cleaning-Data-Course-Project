@@ -88,6 +88,7 @@ Extracted filtered features  from the dataset (79 features)
 
 ## Activity value and labels ##
 Discribes the level of activity thay subjects where exposed to during the test
+
 1. = WALKING
 2. = WALKING_UPSTAIRS
 3. = WALKING_DOWNSTAIRS
